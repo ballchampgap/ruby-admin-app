@@ -1,0 +1,2 @@
+class Epis < ApplicationRecord
+end
